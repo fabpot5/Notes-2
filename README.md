@@ -1,1 +1,6 @@
-# Notes-2
+# Run the code
+
+```
+npm install
+npm start
+```
